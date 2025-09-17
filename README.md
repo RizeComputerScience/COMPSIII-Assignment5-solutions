@@ -1,4 +1,4 @@
-# Assignment 4 - SQL
+# Assignment #5 - SQL
 
 **TASK**: Create a world_cities database that stores a cities id, name, population, and country in a cities table. 
 
